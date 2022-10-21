@@ -7,7 +7,7 @@ namespace Homework1
         static void Main(string[] args)
         {
             Person person = new Person();
-            Console.WriteLine("Let me introduse myself!");
+            Console.WriteLine("Let me introduse myself!)");
             int a = 0;
             while (a != 6) 
             {
